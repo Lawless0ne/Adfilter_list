@@ -1,0 +1,23 @@
+! https://gogoanime3.co
+gogoanime3.co##.headnav_right:style(width:100% !important;)
+gogoanime3.co##.content_left:style(width:100% !important;)
+gogoanime3.co##.content_right:style(width:100% !important;)
+gogoanime3.co##.none.main_body
+gogoanime3.co##div.main_body:nth-of-type(2)
+gogoanime3.co##div.main_body:nth-of-type(5)
+gogoanime3.co##div.main_body:nth-of-type(6)
+gogoanime3.co##.content_right > div.main_body
+gogoanime3.co##.content_right > .headnav_center
+gogoanime3.co##.bg-notice
+
+! https://anitaku.to
+anitaku.to##.headnav_right:style(width:100% !important;)
+anitaku.to##.content_left:style(width:100% !important;)
+anitaku.to##.content_right:style(width:100% !important;)
+anitaku.to##.none.main_body
+anitaku.to##div.main_body:nth-of-type(2)
+anitaku.to##div.main_body:nth-of-type(5)
+anitaku.to##div.main_body:nth-of-type(6)
+anitaku.to##.content_right > div.main_body
+anitaku.to##.content_right > .headnav_center
+anitaku.to##.bg-notice
