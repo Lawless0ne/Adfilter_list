@@ -10,14 +10,14 @@ gogoanime3.co##.content_right > div.main_body
 gogoanime3.co##.content_right > .headnav_center
 gogoanime3.co##.bg-notice
 
-! https://anitaku.to
-anitaku.to##.headnav_right:style(width:100% !important;)
-anitaku.to##.content_left:style(width:100% !important;)
-anitaku.to##.content_right:style(width:100% !important;)
-anitaku.to##.none.main_body
-anitaku.to##div.main_body:nth-of-type(2)
-anitaku.to##div.main_body:nth-of-type(5)
-anitaku.to##div.main_body:nth-of-type(6)
-anitaku.to##.content_right > div.main_body
-anitaku.to##.content_right > .headnav_center
-anitaku.to##.bg-notice
+! https://anitaku.so
+anitaku.so##.headnav_right:style(width:100% !important;)
+anitaku.so##.content_left:style(width:100% !important;)
+anitaku.so##.content_right:style(width:100% !important;)
+anitaku.so##.none.main_body
+anitaku.so##div.main_body:nth-of-type(2), div.main_body:nth-of-type(5), div.main_body:nth-of-type(6)
+!anitaku.so##div.main_body:nth-of-type(5)
+!anitaku.so##div.main_body:nth-of-type(6)
+anitaku.so##.content_right > div.main_body
+anitaku.so##.content_right > .headnav_center
+anitaku.so##.bg-notice
